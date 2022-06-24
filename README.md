@@ -3,6 +3,7 @@
 
 ##### Instalasi
 ```shell
+$ termux-setup-storage (tekan 'y' atau pilih izinkan)
 $ pkg update && pkg upgrade
 $ pkg install python git -y
 $ pip install requests && bs4
